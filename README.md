@@ -37,7 +37,7 @@
 ## 6. 画像
 ![代替テキスト](https://github.com/ko5656/Markdown-syntax/blob/main/picture/abdomain2.png)
 
-<img src="images/sample.png" alt="偏光顕微画像" width="300">
+<img src="https://github.com/ko5656/Markdown-syntax/blob/main/picture/polarizing-microscope-image.png" alt="偏光顕微画像" width="700">
 
 ![GitHub Logo](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
 
