@@ -35,7 +35,11 @@
 [Google](https://github.com/)
 
 ## 6. 画像
-![代替テキスト](C:\Users\sasaki\soturonn\soturonn2\picturepos\スクリーンショット 2025-02-10 004012.png)
+![代替テキスト](https://github.com/ko5656/Markdown-syntax/blob/main/picture/abdomain2.png)
+
+<img src="images/sample.png" alt="偏光顕微画像" width="300">
+
+![GitHub Logo](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
 
 ## 7. 水平線
 ---
